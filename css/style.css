@@ -9,7 +9,8 @@ body {
 
 #nav {
   height: 70px;
-  overflow: auto; }
+  overflow: auto;
+  color: white; }
   #nav .logo {
     background: url("https://a.slack-edge.com/66f9/img/landing/header_logo_sprite.png") left bottom no-repeat;
     height: 30px;

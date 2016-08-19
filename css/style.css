@@ -38,4 +38,17 @@ body {
           color: white;
           background: rgba(0, 0, 0, 0.1); }
 
+#cta {
+  position: absolute;
+  top: 227px;
+  width: 100%; }
+  #cta #cta-header {
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+    line-height: 1.35;
+    text-align: center;
+    font-size: 3.5em;
+    color: white; }
+
 /*# sourceMappingURL=style.css.map */

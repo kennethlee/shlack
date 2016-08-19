@@ -1,5 +1,11 @@
 body {
-  font-family: 'Baloo Da', sans-serif; }
+  font-family: 'Nunito', sans-serif;
+  background: url("https://a.slack-edge.com/4030/img/wired/neutrino-observatory-header-image.jpg");
+  width: 100%;
+  height: 1000px;
+  background-size: cover;
+  background-position: center top;
+  position: relative; }
 
 #nav {
   height: 70px;

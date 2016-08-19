@@ -40,15 +40,43 @@ body {
 
 #cta {
   position: absolute;
-  top: 227px;
+  top: 32%;
   width: 100%; }
   #cta #cta-header {
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     position: relative;
     line-height: 1.35;
     text-align: center;
     font-size: 3.5em;
     color: white; }
+  #cta #cta-body {
+    width: 70%;
+    margin: 0 auto; }
+    #cta #cta-body .title {
+      margin: 40px 0 22px 0;
+      text-align: center;
+      font-size: 1.3em;
+      color: white; }
+    #cta #cta-body .form-container {
+      width: 435px;
+      background: rgba(0, 0, 0, 0.3);
+      margin: 0 auto;
+      padding: 19px 56px;
+      border-radius: 5px; }
+      #cta #cta-body .form-container .form {
+        margin: 0 auto; }
+      #cta #cta-body .form-container input {
+        border-radius: 4px;
+        padding: 11.8px; }
+      #cta #cta-body .form-container .submit {
+        margin-left: 15px;
+        background-color: #56B68B;
+        border-color: #56B68B;
+        width: 185px;
+        color: white; }
+      #cta #cta-body .form-container .small {
+        color: white;
+        margin: 19px 0 0 0; }
 
 /*# sourceMappingURL=style.css.map */

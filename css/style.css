@@ -32,6 +32,10 @@ body {
       #nav ul li a {
         padding: 6px 8px 6px 8px;
         text-decoration: none;
-        color: black; }
+        color: rgba(255, 255, 255, 0.8);
+        border-radius: 5px; }
+        #nav ul li a:hover {
+          color: white;
+          background: rgba(0, 0, 0, 0.1); }
 
 /*# sourceMappingURL=style.css.map */
